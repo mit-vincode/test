@@ -9,6 +9,7 @@ def print_2():
 def print_32():
     print(32)
 
+
 print('new')
 
 
