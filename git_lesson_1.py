@@ -1,9 +1,9 @@
 def print_1():
     print(123)
 
-    
-def print_32():
-    print(33332)
+
+def print_2():
+    print(222)
 
 
 print('new')
