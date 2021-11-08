@@ -3,7 +3,7 @@ def print_1():
 
     
 def print_32():
-    print(32)
+    print(33332)
 
 
 print('new')
