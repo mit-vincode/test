@@ -4,7 +4,7 @@ def print_1():
 
 
 def print_2():
-    print(2)
+    print(222)
     
 def print_32():
     print(32)
